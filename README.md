@@ -3,16 +3,6 @@
 </div>  
   
 
-### <div align="center">I'm Deep sen, full-stack developer 🚀</div>  
-  
-
-- 🌱 I’m currently learning Hyperledger, Kubernetes, and Spring Boot  
-- ❓ Ask me about MERN stack, Java + Spring Boot, and related technologies  
-- ⚡ Fun fact: I use tabs over spaces  
-  
-
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
